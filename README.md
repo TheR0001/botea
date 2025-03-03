@@ -9,4 +9,4 @@ Pour ajouter le bot à votre serveur, cliquez [ici](https://discord.com/oauth2/a
 # Commandes
 
 Le préfixe des commandes est "!".
-Pour accéder à toutes les commandes entrez la commandes ```!help```.
+Pour accéder à toutes les commandes entrez la commande ```!help```.
